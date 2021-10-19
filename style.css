@@ -1,5 +1,12 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12pt;
+}
+
+
 h1{
     color:blue;
+    font-size: 24pt;
 }
 
 h2{
@@ -10,6 +17,7 @@ h2{
 .merah{
     color:red;
 }
+
 .kuning{
     color:yellow;
 }
