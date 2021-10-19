@@ -10,7 +10,25 @@ h2{
 .merah{
     color:red;
 }
+.kuning{
+    color:yellow;
+}
+
+.kanan{
+    text-align: center;
+}
 
 #tengah{
     text-align: center;
+}
+
+.penuh{
+    width:100%;
+    padding: 10px;
+    border: 3px red dotted;
+    margin: 5px;
+}
+
+.tinggi{
+    height: 80px
 }
